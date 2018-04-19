@@ -1,0 +1,100 @@
+body{
+    display: 100%;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    opacity: 40%;
+    /* i almost forgot this*/
+    font-family: 'Anton', sans-serif;
+}
+body image
+{
+    margin-right: 100px;
+}
+body form
+{
+    text-align: center;
+}
+.nav{
+    background-color: #202021;
+    padding-top: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin: 0px;
+}
+
+.nav li{
+    display:inline-block;
+    color: black;
+    background-color: black;
+    padding-left: 180px;
+    padding-right: 150px;
+   font-size: 120%;
+}
+.nav a{
+    color: #f2f3f4;
+    /* i almost for got the hex */
+} 
+
+.words h1 {
+
+    text-align: center;
+     text-align: center;
+}
+.words p {
+    
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.home  img {
+    width: 30%;
+    height:50%;
+padding-left: 25px;
+}
+
+.words p{
+    
+    text-align: justify;
+}
+.bottom
+{
+    text-align: center;
+}
+.topshirt  p
+{
+    text-align: center;
+    outline-color: dimgray;
+}
+
+.topshirt img
+{ 
+    height: 30%;
+    width: 30%;
+ padding-left: 450px;
+ 
+     
+}
+h1 
+{
+    color: black;
+    text-align: center;
+
+}
+.img, img
+{
+    /*I almost gave up here*/
+    width: 300px;
+    height: 300px; 
+    display: inline-flex;
+    padding-left: 100px;
+    /* px is the best way to fix pics for me*/
+}
+
+.img, p
+{
+ text-align: center;   
+    
+}
